@@ -38,7 +38,7 @@ Notes:
 
 def emotify(txt):
     """
-    a function that retrieves the last n elements from a list.
+    a function that changes specific words into emoticons.
     """
     # First pass solution Time Complexity O(n)
     # store the key value pairs of the required data for swapping out the text to emoticons
