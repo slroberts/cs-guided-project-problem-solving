@@ -27,7 +27,7 @@ from typing import Literal
 def repeat_it(input_str: str) -> str:
     """
     a function that returns a string where each character repeats 
-    in an increasing pattern,starting at 1.
+    in an increasing pattern, starting at 1.
     """
     # new list to store letters
     letter_list = []

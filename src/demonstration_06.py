@@ -8,6 +8,9 @@ We will consider `a, e, i, o, u as vowels for this challenge (but not y).
 The input string will only consist of lower case letters and/or spaces.
 """
 def get_count(input_str):
+    """
+    a function that return the number (count) of vowels in a given string.
+    """
     input_str.lower()
     vowels = "a,e,io,u"
     # Check if string contains a vowel "a, e, i o, or u"
